@@ -5,3 +5,7 @@ Nasz zespół to grupa ludzi, którzy kochają pizzę i ostrość. Robimy wszyst
 ## Kierownik Piekieł
 
 Lucyfer Morningstar
+
+## Kucharz
+
+Adam The First
