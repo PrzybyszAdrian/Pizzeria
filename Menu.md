@@ -19,7 +19,7 @@
 
 ## Pizze wegetariańskie 
 
-<img src = "img/pobrane (1).jpg" width = 300>
+<img src = "PizzaImg/pobrane (1).jpg" width = 300>
 
 |Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
