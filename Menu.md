@@ -1,6 +1,6 @@
-#Menu
+# Menu
 
-##Pizze klasyczne
+## Pizze klasyczne
 
 <img src = "PizzaImg/pobrane.jpg" width = 300>
 
