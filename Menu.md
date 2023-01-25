@@ -61,9 +61,9 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 ## Sałatki
 
-1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
-2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
-3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 17 zł
+2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 22 zł
+3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 27 zł
 
 ## Dodatki
 
