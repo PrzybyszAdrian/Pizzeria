@@ -55,9 +55,9 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 |Lp.| Nazwa:                                                               | porcja:            | 500 g | 666 g | 
 |---|----------------------------------------------------------------------|--------------------|-------|-------|
-|1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 50 zł | 
-|2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
-|3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
+|1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 25 zł | 50 zł | 
+|2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 26 zł | 46 zł | 
+|3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 27 zł | 48 zł | 
 
 ## Sałatki
 
