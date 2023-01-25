@@ -17,3 +17,14 @@
 |9. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
 |10.|BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 60 zł |
 
+## Pizze wegetariańskie 
+
+<img src = "img/pobrane(1).jpg" width = 300>
+
+|Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
+|3. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)                                       |                    | 25 zł | 45 zł | 55 zł |
+|4. |MILANO VEGE (sos pomidorowy, ser, papryka, oregano)                               |                    | 26 zł | 46 zł | 56 zł |
+|5. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 26 zł | 46 zł | 56 zł |
