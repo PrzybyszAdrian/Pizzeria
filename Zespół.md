@@ -21,3 +21,7 @@ Mazikeen
 ## Dostawca
 
 Hermes
+
+## Ten od IT czegoś
+
+Amenadiel
