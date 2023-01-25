@@ -14,7 +14,7 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 <img src = "PizzaImg/pobrane.jpg" width = 300>
 
-|Lp.| Pizza:                                                                 | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|Lp.| Pizza:                                                                 | rozmiar:           | 30 cm | 50 cm | 66 cm |
 |---|------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |MARGHERITA (sos , ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
 |2. |FUNGHI (sos , ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
@@ -31,7 +31,7 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 <img src = "PizzaImg/pobrane (1).jpg" width = 300>
 
-|Lp.| Pizza:                                                                 | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|Lp.| Pizza:                                                                 | rozmiar:           | 30 cm | 50 cm | 66 cm |
 |---|------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |MARGHERITA (sos , ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
 |2. |FUNGHI (sos , ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
@@ -43,7 +43,7 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 <img src = "PizzaImg/pizza-calzone.jpeg" width = 200>
 
-|Lp.| Nazwa:                                                                 | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|Lp.| Nazwa:                                                                 | rozmiar:           | 30 cm | 50 cm | 66 cm |
 |---|------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |KEBAB (sos , ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 56 zł |
 |2. |GRECKA (sos , ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
@@ -53,7 +53,7 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 <img src = "PizzaImg/pobrane (3).jpg" width = 300>
 
-|Lp.| Nazwa:                                                               | porcja:            | 500 g | 650 g | 
+|Lp.| Nazwa:                                                               | porcja:            | 500 g | 666 g | 
 |---|----------------------------------------------------------------------|--------------------|-------|-------|
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 50 zł | 
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
