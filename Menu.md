@@ -70,6 +70,9 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 1. Cukinia - 5 zł
 2. Korczochy - 6 zł
 3. Krewetki - 10 zł
+4. Łosoś - 8 zł
+5. Mięso Kebab - 7 zł
+6. Tajemnica - zapytaj
 
 ## Napoje
 
