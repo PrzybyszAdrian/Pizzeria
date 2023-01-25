@@ -58,3 +58,27 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 50 zł | 
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
+
+## Sałatki
+
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
+2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
+3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
+
+## Dodatki
+
+1. Cukinia - 5 zł
+2. Korczochy - 6 zł
+3. Krewetki - 10 zł
+
+## Napoje
+
+|Lp.| Napój:                                                 | pojemność:         | 330 ml | 500 ml |
+|---|--------------------------------------------------------|--------------------|--------|--------|
+|1. |Woda                                                    |                    | 5 zł   | 10 zł  |  
+|2. |Sok pomarańczowy                                        |                    | 7 zł   | 12 zł  | 
+|3. |Sok jabłkowy                                            |                    | 7 zł   | 12 zł  |
+|4. |Piwo jasne                                              |                    | 10 zł  | 15 zł  | 
+|5. |Piwo ciemne                                             |                    | 12 zł  | 17 zł  | 
+
+<img src = "PizzaImg/pobrane (2).jpg" width = 300>
