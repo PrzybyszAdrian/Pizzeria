@@ -4,6 +4,7 @@ Do każdej pizzy do wyboru 3 stopnie ostrości:
 1. Bardzo ostry
 2. Cholernie ostry
 3. Piekielny
+### Uwaga
 Kolejnym składnikiem sosu jest wybór podstawy:
 1. Pomidorowa
 2. Czosnkowa
