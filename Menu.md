@@ -45,8 +45,8 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 |Lp.| Nazwa:                                                                 | rozmiar:           | 30 cm | 50 cm | 66 cm |
 |---|------------------------------------------------------------------------|--------------------|-------|-------|-------|
-|1. |KEBAB (sos , ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 56 zł |
-|2. |GRECKA (sos , ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
+|1. |KEBAB (sos , ser, kebab, sos czosnkowy)                                 |                    | 25 zł | 43 zł | 59 zł |
+|2. |GRECKA (sos , ser, oliwki, feta, sałata lodowa)                         |                    | 29 zł | 48 zł | 58 zł |
 |3. |BARBEQUE (sos , ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 60 zł |
 
 ## Makarony
