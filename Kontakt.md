@@ -1,7 +1,7 @@
 # Kontakt
 Police
 Ul. Kamiena 21, 72-010
-tel. +48 42 712 22 00, +48 665 843 611
+tel. +48 42 712 22 00, +48 665 843 611,
 police@ostro.pl
 
 Pon - Czw  11:30 - 21:30
