@@ -33,11 +33,11 @@ Kolejnym składnikiem sosu jest wybór podstawy:
 
 |Lp.| Pizza:                                                                 | rozmiar:           | 30 cm | 50 cm | 66 cm |
 |---|------------------------------------------------------------------------|--------------------|-------|-------|-------|
-|1. |MARGHERITA (sos , ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
-|2. |FUNGHI (sos , ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
+|1. |MARGHERITA (sos , ser, oregano)                                         |                    | 21 zł | 42 zł | 53 zł |
+|2. |FUNGHI (sos , ser, pieczarki)                                           |                    | 26 zł | 42 zł | 52 zł |
 |3. |HAWAJSKA VEGE (sos , ser, ananas)                                       |                    | 25 zł | 45 zł | 55 zł |
-|4. |MILANO VEGE (sos , ser, papryka, oregano)                               |                    | 26 zł | 46 zł | 56 zł |
-|5. |GRECKA (sos , ser, oliwki, feta, sałata lodowa)                         |                    | 26 zł | 46 zł | 56 zł |
+|4. |MILANO VEGE (sos , ser, papryka, oregano)                               |                    | 26 zł | 46 zł | 55 zł |
+|5. |GRECKA (sos , ser, oliwki, feta, sałata lodowa)                         |                    | 26 zł | 43 zł | 56 zł |
 
 ## Pizza calzone - zwinięta w pieróg
 
